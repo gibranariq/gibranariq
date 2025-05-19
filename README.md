@@ -17,7 +17,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-### I am an Informatics Student at Telkom University
+### I am an Fresh Informatics Graduate from Telkom University
 - 🌱 I’m currently a Bootcamp Data Science Mentee at Rakamin Academy
 - 👯 I’m looking for a JOB.
 - 🥅 2025 Goals: get a JOB.
