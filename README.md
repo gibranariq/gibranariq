@@ -18,12 +18,9 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### I am an Informatics Student at Telkom University
-- 🌱 I’m currently learning Machine Learning.
-- 👯 I’m looking a study partner for learning Machine Learning :wink:
-- 🥅 2023/2024 Goals: maintaining GPA and adding new achievements
-- 💬 Ask me about anything, I am happy to help :smile:
-- 🧗 I try to: Go beyond and push the bounds
-- ⚡ Fun fact: I love connecting with different people :raised_hands:
+- 🌱 I’m currently a Bootcamp Data Science Mentee at Rakamin Academy
+- 👯 I’m looking for a JOB.
+- 🥅 2025 Goals: get a JOB.
 
 <br>
 
